@@ -1,11 +1,8 @@
 # 2024 Winter ECE279AS Project 7: Low-light Enhancement and Object Tracking with PTZ Camera
-# PhyCV-CUDA
-
-Welcome to PhyCV-CUDA! This is the CUDA/C++ version of the [PhyCV (Physics-inspired Computer Vision) library](https://github.com/JalaliLabUCLA/phycv/). It is specifically optimized for edge devices with NVIDIA GPUs. This repo is developed by [Jalali-Lab](https://photonics.ucla.edu/) @ UCLA.
  
 ## Introduction 
 
-PhyCV CUDA holds the source files needed to run the C++/CUDA versions of the [PhyCV](https://github.com/JalaliLabUCLA/phycv/) algorithms. The PhyCV CUDA source code can be built and run on any machine with C++/CUDA support. Testing and benchmarks are done on NVIDIA's Jetson Nano. 
+This repository holds the source files for running VEViD in conjunction with object detection for real time processing on the Jetson Nano. It also includes code for interfacing with and controlling a connected Arducam Pan-Tilt-Zoom (PTZ) camera, enabling enhanced object detection and tracking in low-light conditions. 
 
 ## Folder Structure
 
