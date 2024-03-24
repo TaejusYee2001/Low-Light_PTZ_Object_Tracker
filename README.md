@@ -78,4 +78,7 @@ Other Usages:
 
 ## PTZ Camera Tracking
 
-The code for PTZ camera tracking and interface with the Arducam 14mp PTZ camera can be found in the controls.cpp and controls.hpp files. Currently, an automated tracking algorithm using Kalman filtering and the bounding box data from running object detection on the input frame can be found in the `process_camera()` function in the video.cpp file. This file uses the controller class declared and implemented in controls.hpp and controls.cpp respectively to control the connected PTZ camera. If you would like to add custom code for a PTZ camera of your choice, override the implementations in the controls.cpp source file. In order to run the automated tracking program, simply use `./vevid -d` with a connected Arducam PTZ camera. 
+The code for PTZ camera tracking and interface with the Arducam 14mp PTZ camera can be found in the controls.cpp and controls.hpp files. Currently, an automated tracking algorithm using Kalman filtering and the bounding box data from running object detection on the input frame can be found in the `process_camera()` function in the video.cpp file. This file uses the controller class declared and implemented in controls.hpp and controls.cpp respectively to control the connected PTZ camera. If you would like to add custom code for a PTZ camera of your choice, override the implementations in the controls.cpp source file. In order to run the automated tracking program, simply use `./vevid -d` with a connected Arducam PTZ camera.
+
+## Link to Presentation Slides
+https://personalmicrosoftsoftware0-my.sharepoint.com/:p:/g/personal/taejusyee_personalmicrosoftsoftware_ucla_edu/ETQ1_cDFDKlErm9_APUFn2IB4chv3lfY7ukUIL_T-8mJgg?e=dgIIj4
