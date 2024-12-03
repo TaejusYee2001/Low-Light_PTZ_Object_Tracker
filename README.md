@@ -1,11 +1,7 @@
 # Low-Light Pan Tilt Zoom Camera Object Tracker
 
+https://github.com/user-attachments/assets/96ba31b8-5d36-4e2f-a3bc-144ab1cd74f5
 
-
-https://github.com/user-attachments/assets/4f8b36b7-d6a7-41c5-8319-7686a03f6e0d
-
-
- 
 ## Introduction 
 
 This repository holds the source files for running VEViD in conjunction with object detection for real time processing on the Jetson Nano. It also includes code for interfacing with and controlling a connected Arducam Pan-Tilt-Zoom (PTZ) camera, enabling enhanced object detection and tracking in low-light conditions. This project was accepted for a poster presentation at the NVIDIA GPU Technology Conference (GTC) 2024. The poster presentation can be found [here.](https://www.nvidia.com/gtc/posters/?search=Physics%20Inspired#/session/1705022965922001O2as) A YouTube playlist containing tutorials and explanation videos for the GTC presentation materials can be found [here.](https://youtube.com/playlist?list=PLtY1Eh6aIPqeaE5KJK5fdgZcCHsUUATuC&si=vHMwMi9WZr_6mB7p)
