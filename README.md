@@ -1,4 +1,6 @@
 # Low-Light Pan Tilt Zoom Camera Object Tracker
+
+https://github.com/TaejusYee2001/Low-Light_PTZ_Object_Tracker/blob/main/output/tracking-orig.mp4
  
 ## Introduction 
 
