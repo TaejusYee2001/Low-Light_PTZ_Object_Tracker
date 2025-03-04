@@ -34,9 +34,9 @@ This repository holds the source files for running VEViD in conjunction with obj
 ### Instructions
 ```bash
 # 1. Download the repo from GitHub
-git clone https://github.com/{REPO_NAME}
+git clone https://github.com/TaejusYee2001/Low-Light_PTZ_Object_Tracker.git
 # 2. cd into the repo
-cd {REPO_NAME}
+cd Low-Light_PTZ_Object_Tracker
 # 3. Compile
 make
 ```
